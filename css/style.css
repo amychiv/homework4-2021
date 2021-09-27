@@ -148,11 +148,14 @@ tbody tr:first-child th:first-child {
 }
 
 footer{
+  position: fixed;
   width:100%;
+  min-height: 75px;
+  bottom: 0;
+  left: 0;
   background:#000000;
   text-align:center;
   color: #FFFFFF;
-  min-height: 75px;
-
+  
 }
 
